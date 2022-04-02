@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CustomSpinnerApp
 //
-//  Created by Гермек Александр Георгиевич on 27.03.2022.
+//  Created by Alexander Germek on 27.03.2022.
 //
 
 import UIKit
